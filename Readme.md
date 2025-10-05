@@ -43,7 +43,7 @@ Used **Pivot Tables** to uncover key insights:
 
 Each Pivot Table was dynamically linked to filters, allowing for interactive data exploration.
 
-image
+![](https://github.com/horiaahmed/Hr-analysis-Based-on-Salary/blob/main/2025-10-05%20(3).png)
 ---
 
 ### Step 3: Dashboard Design
@@ -62,7 +62,7 @@ The dashboard uses a consistent **brown and white color theme**, enhancing reada
 
 ### Final Report & Recommendations
 
-#### 1️Education Level
+#### Education Level
 There is a noticeable discrepancy in salary distribution across different academic degrees.  
 This variation persists across most job grades and departments — except for **R&D** and **Sales**, which show more consistent salary structures.  
 
@@ -84,7 +84,8 @@ Years of experience show a **significant positive impact** on average salary lev
 
 **Recommendation:**  
 While maintaining experience-based salary increments, consider integrating **other performance indicators** — such as productivity, innovation, and skill development — to create a more comprehensive and merit-based compensation structure.
----
+
+
 
 ---
 
