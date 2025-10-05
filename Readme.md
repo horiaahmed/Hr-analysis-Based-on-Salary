@@ -76,6 +76,7 @@ The dashboard uses a consistent **brown and white color theme**, enhancing reada
 ###  Dashboard Preview
 ![Salary Analysis Dashboard](2025-09-22%20(1).png)
 ###  Dashboard with filters applied
+
 ![](https://github.com/horiaahmed/Hr-analysis-Based-on-Salary/blob/main/2025-10-05%20(5).png)
 
 ---
