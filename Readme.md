@@ -97,8 +97,10 @@ While maintaining experience-based salary increments, consider integrating **oth
 
 ---
 
-### 📸 Dashboard Preview
+###  Dashboard Preview
 ![Salary Analysis Dashboard](2025-09-22%20(1).png)
+###  Dashboard with filters applied
+![](2025-10-05 (5).png)
 
 ---
 
