@@ -60,35 +60,11 @@ The dashboard uses a consistent **brown and white color theme**, enhancing reada
 
 ---
 
-### Final Report & Recommendations
+### Step 4 :Final Report & Recommendations
 
-#### Education Level
-There is a noticeable discrepancy in salary distribution across different academic degrees.  
-This variation persists across most job grades and departments — except for **R&D** and **Sales**, which show more consistent salary structures.  
-
-**Recommendation:**  
-Restructure the company’s salary framework to align compensation more closely with **academic qualifications**, ensuring fairness and motivation across all departments.
+![](https://github.com/horiaahmed/Hr-analysis-Based-on-Salary/blob/main/2025-10-05%20(4).png)
 
 ---
-
-#### Location-Based Salary Structure
-The current salary distribution across company branches does not follow a consistent logic in terms of **management level**, **job title**, or **job grade**.  
-
-**Recommendation:**  
-Implement a **standardized salary policy** across all company sites to ensure equity and transparency, while accounting for local cost-of-living differences where relevant.
-
----
-
-#### Experience and Salary Relationship
-Years of experience show a **significant positive impact** on average salary levels, which is administratively sound and expected.  
-
-**Recommendation:**  
-While maintaining experience-based salary increments, consider integrating **other performance indicators** — such as productivity, innovation, and skill development — to create a more comprehensive and merit-based compensation structure.
-
-
-
----
-
 ### How to Use
 1. Open the Excel file.  
 2. Enable **Power Query** connections if prompted.  
@@ -100,7 +76,7 @@ While maintaining experience-based salary increments, consider integrating **oth
 ###  Dashboard Preview
 ![Salary Analysis Dashboard](2025-09-22%20(1).png)
 ###  Dashboard with filters applied
-![](2025-10-05 (5).png)
+![](https://github.com/horiaahmed/Hr-analysis-Based-on-Salary/blob/main/2025-10-05%20(5).png)
 
 ---
 
